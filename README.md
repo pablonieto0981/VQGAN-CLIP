@@ -50,7 +50,9 @@ Install other required Python packages:
 ```sh
 pip install ftfy regex tqdm omegaconf pytorch-lightning IPython kornia imageio imageio-ffmpeg einops torch_optimizer
 ```
-
+```
+pip install setuptools==59.5.0
+```
 Or use the ```requirements.txt``` file, which includes version numbers.
 
 Clone required repositories:
